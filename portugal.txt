@@ -1,0 +1,5 @@
+<option>Oporto</option>
+<option>Lisboa</option>
+<option>Coimbra</option>
+<option>Braga</option>
+<option>Evora</option>
