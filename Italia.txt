@@ -1,0 +1,5 @@
+<option>Roma</option>
+<option>Florencia</option>
+<option>Milán</option>
+<option>Venecia</option>
+<option>Nápoles</option>
