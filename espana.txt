@@ -1,5 +1,5 @@
-<option>1</option>
-<option>2</option>
-<option>3</option>
-<option>4</option>
-<option>l</option>
+<option>Madrid</option>
+<option>Barcelona</option>
+<option>Sevilla</option>
+<option>Córdoba</option>
+<option>Toledo</option>
